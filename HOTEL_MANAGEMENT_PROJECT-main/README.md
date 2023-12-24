@@ -15,7 +15,7 @@ Hotel_Management_Project contains 5 webpages.
                                                                      **HOME PAGE**
                                                                      
        **Sample ScreenShot of Home Page**
-![Home_page_1](https://user-images.githubusercontent.com/69784352/128011653-52d94347-3861-45de-8389-35734dea45a1.png)
+![Home_page_1](https://user-images.githubusercontent.com/69784352/hroom2.jpg)
 ![Home_page_2](https://user-images.githubusercontent.com/69784352/128011851-b83d21e0-4807-4c1f-a550-add78b72be4b.png)
 ![Home_page_3](https://user-images.githubusercontent.com/69784352/128011909-8740df95-ad72-4fe4-a15d-4a3f3ee7da7f.png)
 ![Home_page_4](https://user-images.githubusercontent.com/69784352/128011977-39a3954e-2fa4-424c-a467-1bad42b7c406.png)
